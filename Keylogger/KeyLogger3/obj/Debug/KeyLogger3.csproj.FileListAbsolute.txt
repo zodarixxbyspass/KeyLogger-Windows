@@ -1,0 +1,7 @@
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\obj\Debug\KeyLogger3.csprojAssemblyReference.cache
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\obj\Debug\KeyLogger3.csproj.CoreCompileInputs.cache
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\bin\Debug\chost.exe.config
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\bin\Debug\chost.exe
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\bin\Debug\chost.pdb
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\obj\Debug\chost.exe
+C:\Users\Bossb\source\repos\KeyLogger3\KeyLogger3\obj\Debug\chost.pdb
